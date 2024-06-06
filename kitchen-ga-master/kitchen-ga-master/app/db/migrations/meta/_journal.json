@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714076092496,
+      "tag": "0000_wonderful_the_leader",
+      "breakpoints": true
+    }
+  ]
+}

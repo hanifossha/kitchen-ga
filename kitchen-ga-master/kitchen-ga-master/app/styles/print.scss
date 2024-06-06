@@ -1,0 +1,18 @@
+@media print {
+    @page {
+        margin: 0;
+        size: 29.7cm 21cm;
+
+    }
+
+    body {
+        margin: 1.6cm;
+    }
+
+
+    .printer-defaults {
+        font-family: sans-serif;
+        font-size: 12pt;
+        color: #000;
+    }
+}
